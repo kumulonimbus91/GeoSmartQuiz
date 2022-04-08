@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Geo Smart Quiz</string>
+    <string name="save_result">SAVE RESULT</string>
+    <string name="finish">FINISH</string>
+    <string name="name">Name</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="leaderboard">Leaderboard:</string>
+
+    <string name="the_list_is_currently_empty">The list is currently empty</string>
+    <string name="_100">/100</string>
+    <string name="_130">130</string>
+    <string name="score">/200</string>
+</resources>
